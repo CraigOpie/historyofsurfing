@@ -1,0 +1,27 @@
+body {
+  background-image: url("images/04.jpg");
+  background-size: 100%;
+}
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 150px;
+}
+h2 {
+  text-align: center;
+  margin-top: 50px;
+}
+section {
+  color: white;
+}
+img {
+  float: left;
+  width: 200px;
+  height: 200px;
+  padding: 10px 75px;
+}
+.centered {
+  position: relative;
+  top: 50%;
+  left: 50%;
+}
