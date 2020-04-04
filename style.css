@@ -1,11 +1,13 @@
 body {
   background-image: url("images/04.jpg");
   background-size: 100%;
+  font-family: Roboto, serif;
 }
 h1 {
   text-align: center;
   margin-top: 20px;
   margin-bottom: 150px;
+  font-family: Lato, serif;
 }
 h2 {
   text-align: center;
